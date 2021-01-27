@@ -1,0 +1,8 @@
+.Row{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-flow: row;
+    width:100%;
+    max-height: fit-content;
+}

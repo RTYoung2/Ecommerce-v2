@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    
+    
+}
+
+.cardstyle{
+    height:300px;
+}
+
+.card-img{
+    display:flex;
+    
+}

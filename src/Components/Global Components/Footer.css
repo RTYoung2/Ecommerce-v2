@@ -1,0 +1,34 @@
+.footer {
+    width: 100%;
+    justify-content: center;
+    background-color: #2e2b2b;
+    display: flex;
+    flex-flow: row;
+    padding: 10px;
+  }
+  
+  .social_media {
+    color: white;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+  }
+  
+  .social_media:hover {
+    color: #e6c615;
+  }
+  
+  .social_media > img {
+    margin-left: 20px;
+    height: 50px;
+  }
+  
+  .social_media > a {
+    color: white;
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+  }
+  
+  .social_media:hover > a {
+    color: #e6c615;
+  }
