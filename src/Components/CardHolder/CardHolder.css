@@ -1,14 +1,15 @@
-.container{
-    display:flex;
-    
-    
+.container {
+  display: flex;
 }
 
-.cardstyle{
-    height:300px;
+.cardstyle {
+  height: 300px;
+  width: 200px;
+  margin: 10px !important;
 }
 
-.card-img{
-    display:flex;
-    
+.card-img {
+  display: flex;
+  height: 400px;
+  width: 400px;
 }

@@ -1,0 +1,10 @@
+.Contact {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+button.submit {
+  width: 50%;
+}

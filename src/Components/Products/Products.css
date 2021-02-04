@@ -1,8 +1,17 @@
-.Row{
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    flex-flow: row;
-    width:100%;
-    max-height: fit-content;
+.products {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+  width: 100%;
+  max-height: fit-content;
+  grid-gap: 10px;
+}
+
+#price {
+  margin-top: 5%;
+  align-items: center;
+}
+
+h1.blurbTitle {
+  margin-top: 5%;
 }

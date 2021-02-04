@@ -1,48 +1,8 @@
-/* .blurb-container {
-    width: 100%;
-    background: #000000;
-    margin: 100px auto;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .what_is_box {
-    width: 100%;
-    height: 200px;
-    background: #29f1ff;
-    transition: 1s;
-  }
-  .what_is_box:hover {
-    transform: scale(0.7);
-  }
-  
-  .what_is {
-    text-align: center;
-    text-decoration-style: dashed;
-    justify-content: center;
-    font-size: 5em;
-    padding-top: 20px;
-  }
-  
-  .blurb_description {
-    justify-content: center;
-    text-align: center;
-    font-size: 1.8em;
-    padding-top: 20px;
-    font-family: montserrat;
-    display: flex;
-  }
-  .home_mission {
-    text-align: center;
-    font-size: 4em;
-    justify-content: center;
-    font-family: montserrat;
-  }
-  
-  .mission_description {
-    text-align: center;
-    font-size: 1.5em;
-    font-family: montserrat;
-    display: flex;
-    padding-top: 20px;
-  } */
+.blurb {
+  margin-bottom: none;
+}
+
+.blurb-what-is-box {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
