@@ -9,38 +9,38 @@
         "price": 30.00
     },
     {
-        "image": "./image.png",
+        "image": "../../ProductsIMG/ORIGINAL 7.png",
         "title":"ORIGINAL 7",
         "type": "Shirt",
         "description":    "This shirt feautres the orignal '7' logo on the left-half of the shirt (back)as well as 'T-SEVEN' printed vertically on the right half of the shirt" ,
         "price": 30.00
     },
     {
-        "image": "./image.png",
+        "image": "../../ProductsIMG/T7HOODIE.png",
         "title": "T7 HOODIE",
         "type": "Hoodie",
         "description":    "This hoodie features the company trademark '7RU7H' on the pouch, as well as thin cross pattern added to the hood" ,
         "price": 50.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/FLEX FIT.png",
         "title": "7RU7H FLEX FIT",
         "type": "Shirt",
         "description":    "This shirt features a diagonal pattern of the trademark '7RU7H' on the front with the original '7' the back of the shirt (centered)" ,
         "price": 40.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/GRACE&FLEX.png",
         "title":"GRACE & FLEXIBILITY",
         "type": "Shirt",
         "description":    "This shirt features the words 'GRACE' and 'FLEXIBILTY' on the back of the shirt (Centered-top). The original '7' logo is located on the left sleeve." ,
         "price": 27.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/T7 POUCH.png",
         "title":"T7 POUCH",
         "type": "Accessory",
         "description":    "This fanny pack features the updated T7 logo going across the front horizontally, has a cross located on the bottom of the pouch  with the company Trademark'7RU7H' on the top of the pouch." ,
         "price": 32.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/T7 MASK.png",
         "title":"T7 MASK",
         "type": "Accessory",
         "description":    "This mask features the updated logo printed all around the face mask" ,
@@ -48,32 +48,32 @@
     },
 
     {
-        "image": "./image.png",
+        "image": "../../ProductsIMG/T7 CASE.png",
         "title": "T7 CASE",
         "type": "Accessory",
         "description":    "This phone case features the updated logo centered vertically with the company trademark running along the border of the case.  This Phone case is availble for limited Samsung and iPhone products " ,
         "price": 20.00
        },
 
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/T7 CAP.png",
         "title":"T7 CAP",
         "type": "Accessory",
         "description":    "This hat feautres a cross on the front accompanied with the company Trademark '7RU7H'. On the back, the the company name 'T-SEVEN' is embeded " ,
         "price": 25.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/T7 PANTS.jpg",
         "title":"7RU7H SWEATPANTS",
         "type": "Pants",
         "description":    "These pants will feauture the seven '7RU7H's that T-SEVEN stands for. Design still pending" ,
         "price": 45.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/WATER.jpg",
         "title":"WATER",
         "type": "Pants",
         "description":    "This shirt/pant(s) will feature Kanji symbol for water. The color of this garmet will be black with white text " ,
         "price": 45.00
     },
-    {"image": "./image.png",
+    {"image": "../../ProductsIMG/OPPORTUNITY.jpg",
         "title":"OPPORTUNITY",
         "type": "Pants",
         "description":    "This Design features a blooming flower with the Kanji symbol for opportunity located in the center of the design. This artwork is still pending for production" ,

@@ -5,7 +5,7 @@ class Footer extends Component {
     render(){
         return( 
             <div className= "footer">
-                Hello this is the footer 
+                
                 <div className= "social_media">
 
                 <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png"

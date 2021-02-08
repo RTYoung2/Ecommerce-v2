@@ -1,4 +1,4 @@
-import React from "react"
+
 const MenuItems = [
     {
         title:'Home',
@@ -11,7 +11,7 @@ const MenuItems = [
         cName: 'nav-links',
     },
     {
-        title:'About US',
+        title:'Contact US',
         url:"#",
         cName: 'nav-links',
     }

@@ -1,17 +1,25 @@
-.products {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  justify-content: space-evenly;
-  width: 100%;
-  max-height: fit-content;
-  grid-gap: 10px;
+
+
+
+
+.products{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    width:100%;
+    max-height: fit-content;
+    grid-gap:10px
 }
 
-#price {
-  margin-top: 5%;
-  align-items: center;
+#price{
+    margin-top:5%;
+    align-items: left;
+
 }
 
-h1.blurbTitle {
-  margin-top: 5%;
+h1.blurbTitle{
+    margin-top:5%;
 }
+
+
+

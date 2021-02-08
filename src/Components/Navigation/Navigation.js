@@ -1,17 +1,15 @@
-import React, { Component } from "react";
+import React, {Component} from "react"
 // import MenuItems from "./MenuItems"
-import "./Navigation.css";
-import logo from "./T7.png";
-import { Navbar, Nav, NavDropdown } from "react-bootstrap";
+import './Navigation.css'
+import logo from "./T7.png"
+import {Navbar, Nav, NavDropdown} from 'react-bootstrap'
 
 export class MyNav extends Component {
-  render() {
-    return (
-      <Navbar fixed="top" bg="light" expand="lg">
-        <Navbar.Brand className="logoImage" href="/">
-          {" "}
-          <img src={logo} width="50" height="50" />
-        </Navbar.Brand>
+
+    render (){
+        return( 
+        <Navbar fixed = "top" bg="light" expand="lg">
+        <Navbar.Brand className="logoImage" href="/"> <img src={logo} width="50" height="50"/></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
@@ -27,7 +25,35 @@ export class MyNav extends Component {
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-    );
-  }
+
+        )
+    }
 }
-export default MyNav;
+      export default MyNav
+            
+        
+            //             <nav className= "NavbarItems">
+            //                 <h1 className= "navbar-logo"><i className="fab fa-react"></i></h1>
+                        
+            //             <div className= "menu-icon">
+            
+                            
+            //             </div>
+            
+            
+            //                 <ul className = "locations" >
+            //                     {MenuItems.map((item,index)=>{
+            //                         return (
+            //                             <li key={index}>
+            //                                 <a className= {item.cName} href={item.url} >
+            //                                 {item.title}
+            //                                 </a>
+            //                             </li>
+            //                         )
+            //                     })}          
+            //                 </ul>
+            //             </nav>
+            
+            //         )
+            //     }
+            // }

@@ -1,10 +1,19 @@
-.Contact {
-  display: grid;
-  justify-content: center;
-  align-items: center;
-  min-height: 90vh;
+.Contact{
+display:grid;
+justify-content:center;
+align-items:center;
+min-height:90vh;
+
 }
 
-button.submit {
-  width: 50%;
+button.submit{
+    width:50%;
 }
+
+.contact{
+    font-size: 2px;
+}
+
+/* .form{
+    
+} */

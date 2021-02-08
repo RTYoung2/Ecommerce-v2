@@ -11,22 +11,18 @@ class Header extends Component {
         return(
         
 <div className="header">
-    this is the header :)
-    {/* Header component --> once the header is completed, then the component is imported */}
-    {/* Card Section component */}
-    {/* Footer component */}
+    
+    
     
 <Carousel>
-  <Carousel.Item src="{SLIDER1}" interval={1000}>
+  <Carousel.Item src="{SLIDER1}" interval={1000} >
     <img
       className="d-block w-100"
       src={SLIDER1}
       alt="THIS IS THE FIRST SLIDE"
+      
     />
-    <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-    </Carousel.Caption>
+    
   </Carousel.Item>
   <Carousel.Item interval={500}>
     <img
@@ -34,10 +30,7 @@ class Header extends Component {
       src={logo}
       alt="THIS IS THE SECOND IMAGE"
     />
-    <Carousel.Caption>
-      <h3>Second slide label</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </Carousel.Caption>
+    
   </Carousel.Item>
   <Carousel.Item>
     <img
@@ -45,10 +38,7 @@ class Header extends Component {
       src={water}
       alt="THIS IS THE THIRD IMAGE"
     />
-    <Carousel.Caption>
-      <h3>Third slide label</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-    </Carousel.Caption>
+   
   </Carousel.Item>
 </Carousel>
 </div>

@@ -74,7 +74,7 @@ const changeType = (e) => {
     
         return(
               <>
-<Blurb blurbTitle="PRODUCTS" className="productsTitle"/>
+<Blurb blurbTitle="PRODUCTS"/>
 {/* Create a method for select element. When we change orice range it will change the state of the products page 
       Ex. it will only show the products that are priced in the range from $0 -$20 */}
 {/* Select  */}
